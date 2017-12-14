@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "885359863695",
+    "firebase_url": "https://otpfirebaseproject-d0881.firebaseio.com",
+    "project_id": "otpfirebaseproject-d0881",
+    "storage_bucket": "otpfirebaseproject-d0881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885359863695:android:d9ff0f0dc97a0306",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885359863695-50d67cd4qcjoo184fhf5dqgubihn9avf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.otp",
+            "certificate_hash": "b94b3353dc4383d6ccec53c39b6b4668e78d651f"
+          }
+        },
+        {
+          "client_id": "885359863695-eht44svutdjs57egh55fc5ja65ssp1i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.otp",
+            "certificate_hash": "7119a987257679c8461843db8d2b375496100ec4"
+          }
+        },
+        {
+          "client_id": "885359863695-2naslvirpa5idbgqflq975q7bt5rtq3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.otp",
+            "certificate_hash": "f15fa68548b416717e1429da2e0ebcb6ffb84bde"
+          }
+        },
+        {
+          "client_id": "885359863695-rv01dghjofi4e4uidi0ja5oa77654k7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKllFTInDKH1McEiKRwAUp-27ShHeEhss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885359863695-rv01dghjofi4e4uidi0ja5oa77654k7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

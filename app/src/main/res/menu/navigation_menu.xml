@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item android:id="@+id/myorder"
+
+            android:title="My Order" />
+
+        <item android:id="@+id/stores"
+
+            android:icon="@drawable/ic_home_white_24dp"
+
+            android:title="Partner Stores"/>
+
+        <item android:id="@+id/conditon"
+
+            android:title="Terms and Conditions"
+            android:icon="@drawable/ic_error_outline_white_24dp" />
+
+        <item android:id="@+id/aboutus"
+
+            android:title="About"
+
+            android:icon="@drawable/ic_person_pin_white_24dp"/>
+
+    </group>
+
+</menu>
